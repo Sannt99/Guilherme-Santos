@@ -19,4 +19,4 @@
 
  ## Espero que tenha gostado!
 
- <div class="tenor-gif-embed" data-postid="27203269" data-share-method="host" data-aspect-ratio="0.746875" data-width="100%"><a href="https://tenor.com/view/santos-santos-fc-mascote-peixe-dan%C3%A7a-gif-27203269">Santos Santos Fc GIF</a>from <a href="https://tenor.com/search/santos-gifs">Santos GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img loading= "lazy" src="https://media1.tenor.com/m/zEg1cJn0QvsAAAAd/santos-santos-fc.gif" width="40" height="40" /> 
