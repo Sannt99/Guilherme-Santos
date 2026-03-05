@@ -19,4 +19,4 @@
 
  ## Espero que tenha gostado!
 
- <img loading= "lazy" src="https://media1.tenor.com/m/zEg1cJn0QvsAAAAd/santos-santos-fc.gif" width="40" height="40" /> 
+ <img loading= "lazy" src="https://media1.tenor.com/m/zEg1cJn0QvsAAAAd/santos-santos-fc.gif" width="150" height="150" /> 
